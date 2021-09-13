@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application using Bloc State Management.
 
 <img src="assets/github/counter_bloc.png" width="400">
 
