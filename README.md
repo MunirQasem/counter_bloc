@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<img src="" width="200">
+<img src="assets/github/counter_bloc.png" width="400">
 
 A few resources to get you started if this is your first Flutter project:
 
