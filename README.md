@@ -6,6 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+<img src="" width="200">
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
@@ -53,7 +55,7 @@ How to work with Git
 
 10. Push 
 
--> Server
+-> Remote
 
 11. Compare & pull request 
 
